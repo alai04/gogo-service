@@ -4,6 +4,7 @@
 *.dll
 *.so
 *.dylib
+gogo-service
 
 # Test binary, build with `go test -c`
 *.test
